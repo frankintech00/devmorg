@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { BsCurrencyPound } from 'react-icons/bs';
-import FormInput from './FormInput';
+// import FormInput from './FormInput';
 
 const Form = () => {
 	const [homeValue, setHomeValue] = useState('');
